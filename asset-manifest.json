@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/La-Polo/static/css/main.992df77f.chunk.css",
+    "main.js": "/La-Polo/static/js/main.9bf3b7fe.chunk.js",
+    "main.js.map": "/La-Polo/static/js/main.9bf3b7fe.chunk.js.map",
+    "runtime-main.js": "/La-Polo/static/js/runtime-main.1cda1aaa.js",
+    "runtime-main.js.map": "/La-Polo/static/js/runtime-main.1cda1aaa.js.map",
+    "static/js/2.cc266304.chunk.js": "/La-Polo/static/js/2.cc266304.chunk.js",
+    "static/js/2.cc266304.chunk.js.map": "/La-Polo/static/js/2.cc266304.chunk.js.map",
+    "static/js/3.04091e04.chunk.js": "/La-Polo/static/js/3.04091e04.chunk.js",
+    "static/js/3.04091e04.chunk.js.map": "/La-Polo/static/js/3.04091e04.chunk.js.map",
+    "index.html": "/La-Polo/index.html",
+    "static/css/main.992df77f.chunk.css.map": "/La-Polo/static/css/main.992df77f.chunk.css.map",
+    "static/js/2.cc266304.chunk.js.LICENSE.txt": "/La-Polo/static/js/2.cc266304.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cda1aaa.js",
+    "static/js/2.cc266304.chunk.js",
+    "static/css/main.992df77f.chunk.css",
+    "static/js/main.9bf3b7fe.chunk.js"
+  ]
+}
